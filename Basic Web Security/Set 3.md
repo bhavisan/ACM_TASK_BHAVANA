@@ -1,6 +1,8 @@
 Lab 1:
+![image](https://github.com/user-attachments/assets/a2998d59-c029-4d24-9980-c08677718d97)
 
 Lab 2:
+![image](https://github.com/user-attachments/assets/1296b86e-b1ab-4d0c-b220-4bec50aad97a)
 
 Lab 3:
 
