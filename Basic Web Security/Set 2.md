@@ -4,6 +4,7 @@ Lab 1:
 
 Lab 2: 
 
+![image](https://github.com/user-attachments/assets/d37d3f40-11fb-4570-8710-d875ebb69993)
 
 Lab 3: 
 
