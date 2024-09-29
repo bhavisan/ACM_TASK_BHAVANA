@@ -45,4 +45,3 @@ Lab 12:
 
 ![image](https://github.com/user-attachments/assets/9e927e49-b369-4fc8-91fa-bebf07ccb1d5)
 
-Lab 12:
