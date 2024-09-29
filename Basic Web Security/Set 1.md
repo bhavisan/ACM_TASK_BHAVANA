@@ -43,25 +43,35 @@ LAB 10:
 
 LAB 11:
 
-![image](https://github.com/user-attachments/assets/9381a2ea-9ccf-44d0-8c76-8942b2195c41)
+![image](https://github.com/user-attachments/assets/f4b22b47-4531-4716-b769-376b56e93b03)
 
 
 LAB 12:
 
+![image](https://github.com/user-attachments/assets/9e116139-3791-49b5-93b4-f75ae66beda9)
 
 LAB 13:
 
 
+
 LAB 14:
+
+![image](https://github.com/user-attachments/assets/aa2aebdd-2924-44c5-8503-6a9df2e19990)
 
 
 LAB 15:
 
+![image](https://github.com/user-attachments/assets/e3ded72e-6fa7-4628-b2c6-da719f07d663)
 
 LAB 16:
 
+![image](https://github.com/user-attachments/assets/c0311caa-3e80-4aa1-8abd-00b01e609744)
 
 LAB 17:
 
+![image](https://github.com/user-attachments/assets/1a2e045e-4372-480c-8a93-c03b47921e70)
+
 
 LAB 18:
+
+![image](https://github.com/user-attachments/assets/ff87f7c9-8bea-436d-be4c-a6b9ef75a4df)
