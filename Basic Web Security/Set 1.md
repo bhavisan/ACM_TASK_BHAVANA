@@ -43,6 +43,8 @@ LAB 10:
 
 LAB 11:
 
+![image](https://github.com/user-attachments/assets/9381a2ea-9ccf-44d0-8c76-8942b2195c41)
+
 
 LAB 12:
 
