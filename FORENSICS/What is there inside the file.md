@@ -6,4 +6,3 @@ Decoding it gives:
 
 Forensics is fun
 
-How I got the solution:
