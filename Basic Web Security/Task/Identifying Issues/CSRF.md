@@ -71,3 +71,5 @@ Now that we know all this, let's try to get user credentials
 
 So, in this case, we were able to extract information about user through an input field. Improper Input Validation can lead to many vulnerabilities like SQL Injection. In the Documentation.md, I have explained how to solve this issue
 
+
+
