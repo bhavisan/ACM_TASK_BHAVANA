@@ -1,8 +1,6 @@
 from sympy.ntheory.modular import crt #to work with modular arithmetic and importing crt 
 from sympy import integer_nthroot #to return root and its boolean value
 
-# Given data
-
 
 n1=93500162517048641546787096055793757535647246115573452820070426952722839105259206386726342320373080028589838409420934957286736144380948165832820988099621769638760228520922601557891245459269555695273287461982149159244732888497451549014876606240205619538734235283434466606740831016126239969278127395932813972501
 ct1= 78406286729520927933597606356229817207730090348466337528850035686907731769583595879598630905387554797365268804265749503975166670245660278708562880234673953125
@@ -19,18 +17,18 @@ ciphers = [ct1,ct2,ct3]
 moduli = [n1,n2,n3]
 
 # Step 1: Use CRT to find the combined M^e value
-# The crt() function takes the moduli and ciphers, and gives us the result modulo the product of the moduli
+
 M_e, _ = crt(moduli, ciphers)
 
 # Step 2: Given e=3, find the cube root of M^e
-# integer_nthroot finds the integer nth root and checks if the result is exact
+
 M, is_exact = integer_nthroot(M_e, 3)
 
 print(M)
 
 # Step 3: Convert the integer message M to bytes and decode as a string
 message_bytes = M.to_bytes((M.bit_length() + 7) // 8, 'big')
-# Convert the message to a hexadecimal representation
+
 message_hex = message_bytes.hex()
 
 # Output the message in hexadecimal
