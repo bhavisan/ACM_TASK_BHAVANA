@@ -1,4 +1,3 @@
-## CSRF 
 #### CHANGE PASSWORD
 
 <i> In this case, we can see there is a potential vulnerability in the change password fields. Using burp suite, I intercepted the request to change password. I changed the initial password from 'bugs' to 'time' </i>
@@ -13,9 +12,7 @@
 
 <i> Hence, I managed to change the password of a user using CSRF </i>
 
-#### CHANGE SECRET
 
-<i> Here also, I can change the secret message by intercepting the request and forwarding the modified secret. </i>
 
 #### TRANSFER AMOUNT
 
