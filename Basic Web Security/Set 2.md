@@ -86,33 +86,5 @@ Lab 20:
 
 ![image](https://github.com/user-attachments/assets/1913e504-6793-4a67-bb06-559f65c8059a)
 
-Lab 21:
 
-
-
-Lab 22:
-
-
-Lab 23:
-
-
-Lab 24:
-
-
-Lab 25:
-
-
-Lab 26:
-
-
-Lab 27:
-
-
-Lab 28:
-
-
-Lab 29:
-
-
-Lab 30:
 
