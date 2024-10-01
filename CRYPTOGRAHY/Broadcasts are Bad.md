@@ -12,9 +12,7 @@ The given numbers match the criterion for CRT, we have three moduli values, thre
 
 I have created a python code to solve the CRT: 
 
-![image](https://github.com/user-attachments/assets/a68004ba-64c6-45c5-a07e-feed7a041892)
+![image](https://github.com/user-attachments/assets/e93323f1-29be-4ca9-b2a9-f358e96ea4b7)
 
-![image](https://github.com/user-attachments/assets/036608a6-0f66-4d00-a7fe-586d729fd2fd)
-
-![image](https://github.com/user-attachments/assets/f0c06488-674b-41fb-b36d-478a37717716)
+![image](https://github.com/user-attachments/assets/ae2d08b8-e484-46dd-b2f1-cb5ecafd7578)
 
