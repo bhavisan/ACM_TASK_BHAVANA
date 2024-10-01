@@ -32,4 +32,3 @@ In the Tasks/ Identifying Issues folder, I have used several methods for identif
 
   Set the SameSite attribute for cookies to Lax or Strict to prevent the browser from sending cookies along with cross-site requests. This minimizes the risk of CSRF attacks by ensuring that requests made from other origins cannot include the user's authentication cookies.
 
-3. 
