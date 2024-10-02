@@ -1,4 +1,4 @@
-##Solution:
+## Solution:
 
 Unopenable og.pdf shows the base64 code: 
 
@@ -8,7 +8,7 @@ Decoding it gives:
 
 Forensics is fun
 
-##Explanation: 
+## Explanation: 
 
 
 The challenge requested that the zip file be cracked using a script rather than relying on external tools. Initially, I approached this by exploring possible methods to brute-force or dictionary-attack the zip file using a custom script in Python. However, after several attempts, I came across two problems:
