@@ -30,5 +30,7 @@ In the Tasks/ Identifying Issues folder, I have used several methods for identif
     <i> $_SESSION['csrf_token'] = bin2hex(random_bytes(32));</i>
 
 
-  Set the SameSite attribute for cookies to Lax or Strict to prevent the browser from sending cookies along with cross-site requests. This minimizes the risk of CSRF attacks by ensuring that requests made from other origins cannot include the user's authentication cookies.
+ Preventing CSRF Vulnerabilities:
+ 1. Primary Defense: Use CSRF tokens - these are unpredictable (long, random string), tied to user's session, validated before the relevant action is executed.
+ 2. SameSite Cookies: it is an attribute that can be used to control whether cookies are submitted in cross - site requests. Can be set to Strict, Lax or None. 
 
