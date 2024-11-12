@@ -13,3 +13,9 @@ XSS - ability to execute arbitrary javascript on a user's browser. We have acces
 Sink = method or function that causes malicious JS to be injected into a page
 .innerHTML sink = script tag won't be executed. 
 jQuery is recognised by $ (selector)
+
+In order for a CSRF to be possible:
+- A relevant action: change a users email
+- Cookie - based session handling: session cookie
+- No unpredictable request parameters
+  
